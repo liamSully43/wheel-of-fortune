@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/wheel-of-fortune/static/js/main.12f508c7.chunk.js",
+    "main.js.map": "/wheel-of-fortune/static/js/main.12f508c7.chunk.js.map",
+    "runtime-main.js": "/wheel-of-fortune/static/js/runtime-main.1373483b.js",
+    "runtime-main.js.map": "/wheel-of-fortune/static/js/runtime-main.1373483b.js.map",
+    "static/js/2.9b2939a7.chunk.js": "/wheel-of-fortune/static/js/2.9b2939a7.chunk.js",
+    "static/js/2.9b2939a7.chunk.js.map": "/wheel-of-fortune/static/js/2.9b2939a7.chunk.js.map",
+    "index.html": "/wheel-of-fortune/index.html",
+    "precache-manifest.c3a43131ca3a0a642af399d23924cada.js": "/wheel-of-fortune/precache-manifest.c3a43131ca3a0a642af399d23924cada.js",
+    "service-worker.js": "/wheel-of-fortune/service-worker.js",
+    "static/js/2.9b2939a7.chunk.js.LICENSE": "/wheel-of-fortune/static/js/2.9b2939a7.chunk.js.LICENSE",
+    "static/media/wheel.png": "/wheel-of-fortune/static/media/wheel.4fb2415c.png",
+    "static/media/wheel_of_fortune_logo.png": "/wheel-of-fortune/static/media/wheel_of_fortune_logo.dee4e658.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1373483b.js",
+    "static/js/2.9b2939a7.chunk.js",
+    "static/js/main.12f508c7.chunk.js"
+  ]
+}
